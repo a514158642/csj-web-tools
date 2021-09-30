@@ -14,7 +14,7 @@
     ```
 
 - CDN下载  
-    https://unpkg.com/csj-web-tools@0.0.1/src/index.js
+    https://unpkg.com/csj-web-tools/src/index.js
 
 ## 快速使用
 - [使用文档](https://a514158642.github.io/web-tools/)
