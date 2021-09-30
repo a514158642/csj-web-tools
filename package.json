@@ -4,10 +4,10 @@
   "description": "一款前端通用的工具函数集合",
   "main": "index.js",
   "bin": {
-    "csj-web-tools": "bin/index.js"
+    "csj-web-tools": "src/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "demo": "http-server -p 8888"
   },
   "repository": {
     "type": "git",
