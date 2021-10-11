@@ -1,7 +1,7 @@
 {
   "name": "csj-web-tools",
-  "version": "0.0.5",
-  "description": "一款前端通用的工具函数集合",
+  "version": "0.0.7",
+  "description": "一款基于原生javascript的前端通用工具函数集合",
   "main": "src/index.js",
   "bin": {
     "csj-web-tools": "src/index.js"
